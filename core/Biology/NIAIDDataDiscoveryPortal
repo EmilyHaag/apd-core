@@ -1,0 +1,31 @@
+---
+title: NIAID Data Discovery Portal
+homepage: https://data.niaid.nih.gov/
+category: Biology
+description: Dataset aggregator that enables searching across millions of publicly available datasets to find infectious and immune-mediated disease data
+version:
+keywords: biomedical, infectious disease, allergy, immunology, genomics, transcriptomics, metagenomics, rna seq, flow cytometry, multiomics, epidemiology, clinical trials, bioinformatics
+image:
+temporal:
+spatial:
+access_level: public
+copyrights:
+accrual_periodicity: 
+specification:
+data_quality: false
+data_dictionary: 
+language:
+license:
+publisher:
+  - name: 
+    web: 
+organization:
+  - name:The National Institute of Allergy and Infectious Diseases (NIAID)
+    web: 
+issued_time: 2023.07
+sources:
+  - name: 
+    access_url: 
+references:
+  - title: 
+    reference:
